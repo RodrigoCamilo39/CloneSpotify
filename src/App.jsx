@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 import Header from './components/Header'
-import { BrowserRouter, Routes, Route } from 'react-router';
+import { BrowserRouter, Routes, Route } from 'react-router'
 import Home from "./pages/Home"
 import Artists from "./pages/Artists"
 import Artist from "./pages/Artist"
@@ -22,4 +22,4 @@ const App = () => {
   )
 }
 
-export default App;
+export default App

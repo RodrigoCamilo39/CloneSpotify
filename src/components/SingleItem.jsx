@@ -1,7 +1,7 @@
-import React from 'react';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCirclePlay } from "@fortawesome/free-solid-svg-icons";
-import { Link } from 'react-router';
+import React from 'react'
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
+import { faCirclePlay } from "@fortawesome/free-solid-svg-icons"
+import { Link } from 'react-router'
 
 const SingleItem = ({ id, name, image, banner, artist, idPath }) => {
     return (
